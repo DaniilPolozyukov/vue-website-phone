@@ -1,0 +1,13 @@
+@font-face {
+  font-family: '1';
+  font-display: block;
+  font-style: normal;
+  src: url(~assets/fonts/Gilroy-Medium.woff2)format("woff2");
+}
+
+@font-face {
+  font-family: '2';
+  font-display: block;
+  font-style: normal;
+  src: url(~assets/fonts/Gilroy-ExtraBold.woff2)format("woff2");
+}  
